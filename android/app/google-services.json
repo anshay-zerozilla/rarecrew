@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "130697172172",
+    "project_id": "rarecrew-todo",
+    "storage_bucket": "rarecrew-todo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130697172172:android:2fcb785e75af9f334c1e69",
+        "android_client_info": {
+          "package_name": "com.rarecrew.rarecrew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHRKYkflztU8EYq3xqflCQgpBY1LvpIQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
